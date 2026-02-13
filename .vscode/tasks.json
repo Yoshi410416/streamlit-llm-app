@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Streamlit App",
+			"type": "shell",
+			"command": "C:/Users/tanak/Desktop/streamlit-llm-app/env/Scripts/streamlit run app.py",
+			"args": [],
+			"isBackground": true
+		}
+	]
+}
